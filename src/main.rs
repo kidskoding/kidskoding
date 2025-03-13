@@ -45,14 +45,14 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     };
 
     let new_section = format!(
-        "**Currently working on:**\n\n[![{}](./current_repo_card.svg)](https://github.com/{}/{})",
+        "## Currently working on\n\n[![{}](./current_repo_card.svg)](https://github.com/{}/{})",
         latest_repo, username, latest_repo
     );
 
-    let regex = Regex::new(r"(?s)\*\*Currently working on:\*\*.*?(?:\n\n|$)").unwrap();
+    let regex = Regex::new(r"(?s)##\s*Currently working on.*?(?:\n\n|$)").unwrap();
 
-    if regex.is_match(&readme_content) {
-        readme_content = regex.replace(&readme_content, format!("{}\n\n", new_section)).to_string();
+    if let Some(m) = regex.find(&readme_content) {
+        readme_content.replace_range(m.range(), &new_section);
     } else {
         if !readme_content.is_empty() {
             readme_content.push_str("\n\n");
