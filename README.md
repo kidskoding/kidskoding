@@ -1,4 +1,11 @@
-## Hi there 👋
+## kidskoding
+
+Hello, my name is Anirudh Konidala and
+I am a freshmen studying both Computer Science and Education at the University of Illinois Urbana-Champaign!
+I enjoy delving into the field of digital learning software, where I am actively
+creating content online online to guide many people in learning the important skill of programming!
+
+<img src="./anirudh.png" alt="Anirudh Konidala" width="33%" height="33%" />
 
 <!--
 **kidskoding/kidskoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
