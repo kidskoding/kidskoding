@@ -7,6 +7,8 @@ I am a freshmen studying both Computer Science and Education at the University o
 
 [![pg](./current_repo_card.svg)](https://github.com/kidskoding/pg)
 
+## About
+
 I enjoy integrating AI and ML into the field of educational technology, where I actively
 create content online to guide many people
 in learning the important skill of programming using ML based tutors to
