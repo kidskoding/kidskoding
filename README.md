@@ -8,12 +8,12 @@ creating content online to guide many people
 in learning the important skill of programming using ML based tutors to create
 various personalized virtual tutors to help students learn at their own pace
 
-<div style="text-align: center">
+<div style="display: flex; justify-content: center;">
   <img
       src="./anirudh.png"
       alt="Anirudh Konidala"
-      width="33%"
-      height="33%"
+      width="22%"
+      height="22%"
   />
 </div>
 
