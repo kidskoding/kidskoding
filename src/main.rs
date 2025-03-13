@@ -51,8 +51,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let regex = Regex::new(r"(?s)##\s*Currently working on.*?(?:\n\n|$)").unwrap();
 
-    if let Some(m) = regex.find(&readme_content) {
-        readme_content.replace_range(m.range(), &new_section);
+    if regex.is_match(&readme_content) {
+        readme_content = regex.replace_all(&readme_content, new_section.as_str()).to_string();
     } else {
         if !readme_content.is_empty() {
             readme_content.push_str("\n\n");
