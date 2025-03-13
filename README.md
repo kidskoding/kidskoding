@@ -12,8 +12,8 @@ various personalized virtual tutors to help students learn at their own pace
   <img
       src="./anirudh.png"
       alt="Anirudh Konidala"
-      width="22%"
-      height="22%"
+      width="33%"
+      height="33%"
   />
 </div>
 
