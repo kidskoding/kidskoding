@@ -1,0 +1,22 @@
+name: GitHub Activity Updater
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  run_activity_updater:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Rust
+        uses: actions/setup-rust@v1
+
+      - name: Run activity updater
+        run: |
+          cargo run
