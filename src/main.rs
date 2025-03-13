@@ -49,7 +49,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         latest_repo, username, latest_repo
     );
 
-    let regex = Regex::new(r"(?s)##\s*Currently working on.*?(?:\n\n|$)").unwrap();
+    let regex = Regex::new(r"(?s)## Currently working on\n\n\[!\[.*?\]\(.*?\)\]\(.*?\)\n?").unwrap();
 
     if regex.is_match(&readme_content) {
         readme_content = regex.replace_all(&readme_content, new_section.as_str()).to_string();
