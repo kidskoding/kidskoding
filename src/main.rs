@@ -1,4 +1,5 @@
-use std::{fs, io::Write};
+use std::fs;
+use regex::Regex;
 use reqwest::Client;
 use serde_json::Value;
 
@@ -38,14 +39,28 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     fs::write("current_repo_card.svg", &image_bytes)?;
 
     let readme_path = "README.md";
-    let readme_content = format!(
-        "# Hi, I am kidskoding\n\n**Currently working on:**\n\n
-        [![{}](./current_repo_card.svg)](https://github.com/{}/{})",
+    let mut readme_content = match fs::read_to_string(readme_path) {
+        Ok(content) => content,
+        Err(_) => String::new(),
+    };
+
+    let new_section = format!(
+        "**Currently working on:**\n\n[![{}](./current_repo_card.svg)](https://github.com/{}/{})",
         latest_repo, username, latest_repo
     );
 
-    let mut file = fs::File::create(readme_path)?;
-    file.write_all(readme_content.as_bytes())?;
+    let regex = Regex::new(r"(?s)\*\*Currently working on:\*\*.*?(?:\n\n|$)").unwrap();
+
+    if regex.is_match(&readme_content) {
+        readme_content = regex.replace(&readme_content, format!("{}\n\n", new_section)).to_string();
+    } else {
+        if !readme_content.is_empty() {
+            readme_content.push_str("\n\n");
+        }
+        readme_content.push_str(&new_section);
+    }
+
+    fs::write(readme_path, readme_content)?;
 
     println!("Updated README.md with local image for: {}", latest_repo);
     Ok(())
