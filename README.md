@@ -20,4 +20,4 @@ personalize students' learning and help them learn at their own pace
 
 ## Daily Drivers
 
-![Daily Drivers](https://skillicons.dev/icons?i=rust,c,cpp,py,git,postgres,docker,neovim,bash,apple)
+![Daily Drivers](https://skillicons.dev/icons?i=rust,c,cpp,py,git,postgres,mongodb,docker,neovim,bash,apple)
