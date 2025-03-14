@@ -34,7 +34,7 @@ personalize students' learning and help them learn at their own pace
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,next,react,angular,vue,bootstrap)
 
 ### AI and Machine Learning
-![AI and Machine Learning](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,anaconda)
+![AI and Machine Learning](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,anaconda)
 
 ### DevOps
 ![DevOps](https://skillicons.dev/icons?i=git,linux,aws,docker,k8s,bash,githubactions,terraform,firebase,supabase,vercel,gradle,ruby)
