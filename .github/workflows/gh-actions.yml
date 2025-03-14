@@ -23,3 +23,9 @@ jobs:
       - name: Run activity updater
         run: |
           cargo run
+
+      - name: Commit and push updated README
+        run: |
+          git add README.md
+          git commit -m "Update README with latest GitHub activity"
+          git push
