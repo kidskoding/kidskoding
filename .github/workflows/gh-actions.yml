@@ -23,11 +23,3 @@ jobs:
       - name: Run activity updater
         run: |
           cargo run
-
-      - name: Commit and push updated README
-        run: |
-          git config --global user.name "Anirudh Konidala"
-          git config --global user.email "kidskodingclub@gmail.com"
-          git add README.md
-          git commit -m "Update README with latest GitHub activity"
-          git push
