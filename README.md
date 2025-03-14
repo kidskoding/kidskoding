@@ -22,4 +22,4 @@ personalize students' learning and help them learn at their own pace
 
 ![Daily Drivers](https://skillicons.dev/icons?i=rust,cpp,c,py,git,docker,postgres,mongodb,neovim,bash,apple,linux)
 
-### ![Skills](/Users/anirudh/UIUC/go-mama-27/personal-projects/gh-profile-md/)
+### ![Skills](https://github.com/kidskoding/kidskoding/blob/master/SKILLS.md)
