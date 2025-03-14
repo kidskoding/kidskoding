@@ -18,6 +18,6 @@ personalize students' learning and help them learn at their own pace
   <img src="./anirudh.png" alt="Anirudh Konidala" width="33%">
 </p>
 
-### Daily Drivers
+## Daily Drivers
 
 ![Daily Drivers](https://skillicons.dev/icons?i=rust,c,cpp,py,git,postgres,docker,neovim,bash,apple)
