@@ -20,6 +20,6 @@ personalize students' learning and help them learn at their own pace
 
 ## Daily Drivers
 
-![Daily Drivers](https://skillicons.dev/icons?i=rust,cpp,c,py,git,docker,postgres,mongodb,neovim,bash,apple,linux)
+![Daily Drivers](https://skillicons.dev/icons?i=rust,cpp,c,cs,py,git,docker,postgres,mongodb,neovim,bash,apple,linux)
 
 ### [Skills](https://github.com/kidskoding/kidskoding/blob/master/SKILLS.md)
