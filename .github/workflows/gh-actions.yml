@@ -12,6 +12,8 @@ on:
 jobs:
   run_activity_updater:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -23,3 +25,11 @@ jobs:
       - name: Run activity updater
         run: |
           cargo run
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'Anirudh Konidala'
+          git config --global user.email 'kidskodingclub@gmail.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update profile with latest repository activity"
+          git push
