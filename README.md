@@ -14,6 +14,10 @@ personalize students' learning and help them learn at their own pace
   <img src="./anirudh.png" alt="Anirudh Konidala" width="33%">
 </p>
 
+## Currently working on
+
+[![kidskoding](./current_repo_card.svg)](https://github.com/kidskoding/kidskoding)
+
 ## Daily Drivers
 
 ![Daily Drivers](https://skillicons.dev/icons?i=rust,cpp,c,cs,py,git,docker,postgres,mongodb,neovim,bash,apple,linux)
