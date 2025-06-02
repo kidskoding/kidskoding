@@ -1,36 +1,51 @@
-name: GitHub Activity Updater
+name: Update Currently Working On
 
 on:
   schedule:
     - cron: '*/30 * * * *'
-  push:
-    branches:
-      - master
-      - main
   workflow_dispatch:
 
 jobs:
-  run_activity_updater:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - uses: dtolnay/rust-toolchain@stable
+      - name: Install Rust
+        uses: actions-rs/toolchain@v1
         with:
-          toolchain: 1.85.0
+          toolchain: stable
+          override: true
 
-      - name: Run activity updater
-        run: |
-          cargo run
+      - name: Cache cargo registry
+        uses: actions/cache@v3
+        with:
+          path: ~/.cargo/registry
+          key: ${{ runner.os }}-cargo-registry
+          restore-keys: |
+            ${{ runner.os }}-cargo-registry
 
-      - name: Commit and push if changed
+      - name: Cache cargo git
+        uses: actions/cache@v3
+        with:
+          path: ~/.cargo/git
+          key: ${{ runner.os }}-cargo-git
+          restore-keys: |
+            ${{ runner.os }}-cargo-git
+
+      - name: Run Rust program to update README
+        run: cargo run --release
+
+      - name: Commit and push changes if any
         run: |
-          git config --global user.name 'Anirudh Konidala'
-          git config --global user.email 'kidskodingclub@gmail.com'
-          git add -A
-          git commit -m "Update profile with latest repository activity"
-          git pull --rebase
-          git push
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add README.md current_repo_card.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update currently working on section"
+            git push
+          else
+            echo "No changes detected"
+          fi
