@@ -30,6 +30,7 @@ jobs:
         run: |
           git config --global user.name 'Anirudh Konidala'
           git config --global user.email 'kidskodingclub@gmail.com'
+          git pull --rebase
           git add -A
           git diff --quiet && git diff --staged --quiet || git commit -m "Update profile with latest repository activity"
           git push
