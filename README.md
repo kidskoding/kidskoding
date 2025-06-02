@@ -19,3 +19,9 @@ personalize students' learning and help them learn at their own pace
 ![Daily Drivers](https://skillicons.dev/icons?i=rust,cpp,c,cs,py,git,docker,postgres,mongodb,neovim,bash,apple,linux)
 
 ### [Skills](https://github.com/kidskoding/kidskoding/blob/master/SKILLS.md)
+
+
+## Currently working on
+
+[![kidskoding](./current_repo_card.svg)](https://github.com/kidskoding/kidskoding)
+
