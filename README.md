@@ -5,7 +5,7 @@ I am a freshmen studying both Computer Science and Education at the University o
 
 ## Currently working on
 
-[![kidskoding](./current_repo_card.svg)](https://github.com/kidskoding/kidskoding)
+[![blockchain-network](./current_repo_card.svg)](https://github.com/kidskoding/blockchain-network)
 
 ## About
 
