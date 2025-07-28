@@ -14,9 +14,10 @@ personalize students' learning and help them learn at their own pace
   <img src="./anirudh.png" alt="Anirudh Konidala" width="33%">
 </p>
 
-## Currently working on
+## Project Euler
 
-[![kidskoding](./current_repo_card.svg)](https://github.com/kidskoding/kidskoding)
+<img src="https://projecteuler.net/profile/anikoni2010.png" alt="Project Euler Progress" />
+</p>
 
 ## Daily Drivers
 
