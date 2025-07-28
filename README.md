@@ -14,6 +14,10 @@ personalize students' learning and help them learn at their own pace
   <img src="./anirudh.png" alt="Anirudh Konidala" width="33%">
 </p>
 
+## Leetcode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anikoni?theme=dark&ext=heatmap)](https://www.leetcodestats.com/?username=anikoni)
+
 ## Project Euler
 
 <p align="center">
@@ -24,4 +28,4 @@ personalize students' learning and help them learn at their own pace
 
 ![Daily Drivers](https://skillicons.dev/icons?i=rust,cpp,c,cs,py,git,docker,postgres,mongodb,neovim,bash,apple,linux)
 
-### [Skills](https://github.com/kidskoding/kidskoding/blob/master/SKILLS.md)
+### [Skills](https://github.com/kidskoding/kidskoding/blob/master/SKILLS.md)  

@@ -1,67 +1,43 @@
+use reqwest::blocking::get;
+use scraper::{Html, Selector};
 use std::fs;
+use std::io::Write;
 use regex::Regex;
-use reqwest::Client;
-use serde_json::Value;
 
-#[tokio::main]
-async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let username = "kidskoding";
+fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let url = "https://www.leetcodestats.com/?username=anikoni";
+    let body = get(url)?.text()?;
 
-    let url = format!("https://api.github.com/users/{}/events", username);
-    let client = Client::new();
-    let res = client.get(&url)
-        .header("User-Agent", "gh_activity")
-        .send()
-        .await?
-        .json::<Value>()
-        .await?;
+    let document = Html::parse_document(&body);
 
-    let mut latest_repo = "No recent activity".to_string();
-    if let Some(events) = res.as_array() {
-        for event in events {
-            if event["type"] == "PushEvent" {
-                if let Some(repo) = event["repo"]["name"].as_str() {
-                    latest_repo = repo.split('/').last().unwrap_or("").to_string();
-                    break;
-                }
-            }
-        }
-    }
+    let selector = Selector::parse("div.stat-card div.value").unwrap();
+    let mut values = document.select(&selector);
 
-    let card_url = format!(
-        "https://github-readme-stats.vercel.app/api/pin/?username={}&repo={}",
-        username, latest_repo
-    );
-
-    let image_response = client.get(&card_url).send().await?;
-    let image_bytes = image_response.bytes().await?;
-
-    fs::write("current_repo_card.svg", &image_bytes)?;
+    let total_solved = values
+        .next()
+        .map(|e| e.text().collect::<Vec<_>>().join(""))
+        .unwrap_or_else(|| "N/A".to_string());
 
     let readme_path = "README.md";
-    let mut readme_content = match fs::read_to_string(readme_path) {
-        Ok(content) => content,
-        Err(_) => String::new(),
-    };
+    let readme_contents = fs::read_to_string(readme_path)?;
 
-    let new_section = format!(
-        "## Currently working on\n\n[![{}](./current_repo_card.svg)](https://github.com/{}/{})\n\n",
-        latest_repo, username, latest_repo
+    let new_stats = format!(
+        "<!-- LEETCODE-STATS-START -->\n**LeetCode Stats (via leetcodestats.com):** {} problems solved\n<!-- LEETCODE-STATS-END -->",
+        total_solved
     );
 
-    let regex = Regex::new(r"(?s)## Currently working on\n\n\[!\[.*?\]\(.*?\)\]\(.*?\)\n?\n\n").unwrap();
+    let re = Regex::new(r"<!-- LEETCODE-STATS-START -->[\s\S]*<!-- LEETCODE-STATS-END -->")?;
 
-    if regex.is_match(&readme_content) {
-        readme_content = regex.replace_all(&readme_content, new_section).to_string();
+    let updated = if re.is_match(&readme_contents) {
+        re.replace(&readme_contents, &new_stats).to_string()
     } else {
-        if !readme_content.is_empty() {
-            readme_content.push_str("\n\n");
-        }
-        readme_content.push_str(&new_section);
-    }
+        format!("{}\n\n{}", readme_contents, new_stats)
+    };
 
-    fs::write(readme_path, readme_content)?;
+    let mut file = fs::File::create(readme_path)?;
+    file.write_all(updated.as_bytes())?;
 
-    println!("Updated README.md with local image for: {}", latest_repo);
+    println!("Updated README.md with LeetCode stats: {} problems solved", total_solved);
+
     Ok(())
 }
