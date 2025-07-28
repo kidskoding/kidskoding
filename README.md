@@ -14,9 +14,16 @@ personalize students' learning and help them learn at their own pace
   <img src="./anirudh.png" alt="Anirudh Konidala" width="33%">
 </p>
 
+## Languages Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidskoding"
+</p>
+
 ## Leetcode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/anikoni?theme=dark&ext=heatmap)](https://www.leetcodestats.com/?username=anikoni)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anikoni?theme=dark&ext=heatmap" alt="Leetcode Progress" />
+</p>
 
 ## Project Euler
 
