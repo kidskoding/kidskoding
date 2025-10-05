@@ -19,11 +19,11 @@ personalize students' learning and help them learn at their own pace
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidskoding"
 </p>
 
-## Leetcode
+<!-- ## Leetcode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/anikoni?theme=dark&ext=heatmap" alt="Leetcode Progress" />
-</p>
+</p> -->
 
 ## Project Euler
 
