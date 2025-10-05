@@ -1,7 +1,7 @@
 # kidskoding
 
 Hello, my name is Anirudh Konidala and
-I am a freshmen studying both Computer Science and Education at the University of Illinois Urbana-Champaign!
+I am a freshmen studying both Computer Science and Learning Sciences at the University of Illinois Urbana-Champaign!
 
 ## About
 
