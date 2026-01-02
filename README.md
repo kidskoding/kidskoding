@@ -16,9 +16,8 @@ personalize students' learning and help them learn at their own pace
 
 ## Languages Used
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidskoding" />
+  <img src="https://stats.kasperle.dev/api/top-langs/?username=kidskoding&layout=compact" />
 </p>
-
 <!-- ## Leetcode
 
 <p align="center">
