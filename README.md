@@ -11,21 +11,15 @@ I enjoy AI, data, and vibe coding
   <img src="./anirudh.png" alt="Anirudh Konidala" width="33%">
 </p> -->
 
-<!-- ## Languages Used
+## Languages Used
 <p align="center">
   <img src="https://stats.kasperle.dev/api/top-langs/?username=kidskoding&layout=compact" />
-</p> -->
+</p>
 
 <!-- ## Leetcode
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/anikoni?theme=dark&ext=heatmap" alt="Leetcode Progress" />
 </p> -->
-
-## Project Euler
-
-<p align="center">
-  <img src="https://projecteuler.net/profile/anikoni2010.png" alt="Project Euler Progress" />
-</p>
 
 ## Daily Drivers
 
