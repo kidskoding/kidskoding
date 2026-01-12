@@ -11,10 +11,8 @@ I enjoy AI, data, and vibe coding
   <img src="./anirudh.png" alt="Anirudh Konidala" width="33%">
 </p> -->
 
-## Languages Used
-<p align="center">
-  <img src="https://stats.kasperle.dev/api/top-langs/?username=kidskoding&layout=compact" />
-</p>
+## Top Languages
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kidskoding)
 
 <!-- ## Leetcode
 <p align="center">
