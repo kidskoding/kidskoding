@@ -12,7 +12,7 @@ I enjoy AI, data, and vibe coding
 </p> -->
 
 ## Top Languages
-![Top Languages]([https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kidskoding&layout=compact])
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kidskoding&layout=compact)
 
 <!-- ## Leetcode
 <p align="center">
