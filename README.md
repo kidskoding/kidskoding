@@ -11,6 +11,11 @@ I enjoy AI, data, and vibe coding
   <img src="./anirudh.png" alt="Anirudh Konidala" width="33%">
 </p> -->
 
+## Currently Working On
+
+[![kidskoding/kidskoding](https://gh-card.dev/repos/kidskoding/kidskoding.svg)](https://github.com/kidskoding/kidskoding)
+
+
 ## Top Languages
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kidskoding&layout=compact)
 
