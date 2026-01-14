@@ -7,7 +7,7 @@ use std::fs;
 
 #[tokio::main]
 async fn main() -> anyhow::Result<()> {
-    dotenvy::dotenv().ok(); // Load .env file
+    dotenvy::dotenv().ok();
     let token = std::env::var("GITHUB_TOKEN")?;
     let octocrab = Octocrab::builder()
         .personal_token(token)
