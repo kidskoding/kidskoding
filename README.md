@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/linalgrs](https://gh-card.dev/repos/kidskoding/linalgrs.svg)](https://github.com/kidskoding/linalgrs)
+[![kidskoding/cs340](https://gh-card.dev/repos/kidskoding/cs340.svg)](https://github.com/kidskoding/cs340)
 
 
 ## Top Languages
