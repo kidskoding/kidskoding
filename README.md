@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/cs340](https://gh-card.dev/repos/kidskoding/cs340.svg)](https://github.com/kidskoding/cs340)
+[![kidskoding/cfo-liquidity-agent](https://gh-card.dev/repos/kidskoding/cfo-liquidity-agent.svg)](https://github.com/kidskoding/cfo-liquidity-agent)
 
 
 ## Top Languages
