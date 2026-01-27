@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/leetcode](https://gh-card.dev/repos/kidskoding/leetcode.svg)](https://github.com/kidskoding/leetcode)
+[![kidskoding/smart-gRPC](https://gh-card.dev/repos/kidskoding/smart-gRPC.svg)](https://github.com/kidskoding/smart-gRPC)
 
 
 ## Top Languages
