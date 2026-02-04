@@ -1,7 +1,7 @@
 extern crate dotenvy;
 
+use gh_activity_updater::simple_event::SimpleEvent;
 use octocrab::Octocrab;
-use octocrab::models::events::{Event, EventType};
 use octocrab::Page;
 use std::fs;
 
@@ -13,7 +13,7 @@ async fn main() -> anyhow::Result<()> {
         .personal_token(token)
         .build()?;
 
-    let events: Page<Event> = octocrab
+    let events: Page<SimpleEvent> = octocrab
         .get(
             "/users/kidskoding/events/public",
             Some(&[("per_page", "100")]),
@@ -23,7 +23,7 @@ async fn main() -> anyhow::Result<()> {
     let mut activity_md = String::new();
 
     if let Some(event) = events.items.iter().find(|e| {
-        e.repo.name.starts_with("kidskoding/") && matches!(e.r#type, EventType::PushEvent)
+        e.repo.name.starts_with("kidskoding/") && e.event_type == "PushEvent"
     }) {
         let repo = &event.repo.name;
         let card_svg = format!("https://gh-card.dev/repos/{}.svg", repo);
