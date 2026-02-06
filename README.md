@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/cs340](https://gh-card.dev/repos/kidskoding/cs340.svg)](https://github.com/kidskoding/cs340)
+[![kidskoding/pokedata](https://gh-card.dev/repos/kidskoding/pokedata.svg)](https://github.com/kidskoding/pokedata)
 
 
 ## Top Languages
