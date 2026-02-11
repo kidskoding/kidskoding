@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/Pacbot-2-fa-25](https://gh-card.dev/repos/kidskoding/Pacbot-2-fa-25.svg)](https://github.com/kidskoding/Pacbot-2-fa-25)
+[![kidskoding/gopherclaw](https://gh-card.dev/repos/kidskoding/gopherclaw.svg)](https://github.com/kidskoding/gopherclaw)
 
 
 ## Top Languages
