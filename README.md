@@ -26,6 +26,6 @@ I enjoy AI, data, and vibe coding
 
 ## Daily Drivers
 
-![Daily Drivers](https://skillicons.dev/icons?i=rust,go,py,git,docker,postgres,mongodb,neovim,bash,apple,linux)
+![Daily Drivers](https://skillicons.dev/icons?i=rust,go,py,git,docker,postgres,mongodb,neovim,apple,linux)
 
 ### [Skills](https://github.com/kidskoding/kidskoding/blob/master/SKILLS.md)  
