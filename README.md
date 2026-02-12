@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/gopherclaw](https://gh-card.dev/repos/kidskoding/gopherclaw.svg)](https://github.com/kidskoding/gopherclaw)
+[![kidskoding/kidskoding](https://gh-card.dev/repos/kidskoding/kidskoding.svg)](https://github.com/kidskoding/kidskoding)
 
 
 ## Top Languages
