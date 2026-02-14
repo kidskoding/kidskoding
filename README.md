@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/dotfiles](https://gh-card.dev/repos/kidskoding/dotfiles.svg)](https://github.com/kidskoding/dotfiles)
+[![kidskoding/langextract-demo](https://gh-card.dev/repos/kidskoding/langextract-demo.svg)](https://github.com/kidskoding/langextract-demo)
 
 
 ## Top Languages
