@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/valtura](https://gh-card.dev/repos/kidskoding/valtura.svg)](https://github.com/kidskoding/valtura)
+[![kidskoding/vaultra](https://gh-card.dev/repos/kidskoding/vaultra.svg)](https://github.com/kidskoding/vaultra)
 
 
 ## Top Languages
