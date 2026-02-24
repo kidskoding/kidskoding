@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/vaultra](https://gh-card.dev/repos/kidskoding/vaultra.svg)](https://github.com/kidskoding/vaultra)
+[![kidskoding/leetcode](https://gh-card.dev/repos/kidskoding/leetcode.svg)](https://github.com/kidskoding/leetcode)
 
 
 ## Top Languages
