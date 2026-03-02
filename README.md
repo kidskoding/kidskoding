@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/woogent-hackillinois-2026](https://gh-card.dev/repos/kidskoding/woogent-hackillinois-2026.svg)](https://github.com/kidskoding/woogent-hackillinois-2026)
+[![kidskoding/Aegis-Data-Intelligence](https://gh-card.dev/repos/kidskoding/Aegis-Data-Intelligence.svg)](https://github.com/kidskoding/Aegis-Data-Intelligence)
 
 
 ## Top Languages
