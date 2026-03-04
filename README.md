@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/Aegis](https://gh-card.dev/repos/kidskoding/Aegis.svg)](https://github.com/kidskoding/Aegis)
+[![kidskoding/pokedata](https://gh-card.dev/repos/kidskoding/pokedata.svg)](https://github.com/kidskoding/pokedata)
 
 
 ## Top Languages
