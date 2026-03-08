@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/pokelakehouse](https://gh-card.dev/repos/kidskoding/pokelakehouse.svg)](https://github.com/kidskoding/pokelakehouse)
+[![kidskoding/fall-agentic-ai-healthcare-search](https://gh-card.dev/repos/kidskoding/fall-agentic-ai-healthcare-search.svg)](https://github.com/kidskoding/fall-agentic-ai-healthcare-search)
 
 
 ## Top Languages
