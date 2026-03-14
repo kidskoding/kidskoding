@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/f1-genie-code](https://gh-card.dev/repos/kidskoding/f1-genie-code.svg)](https://github.com/kidskoding/f1-genie-code)
+[![kidskoding/portfolio](https://gh-card.dev/repos/kidskoding/portfolio.svg)](https://github.com/kidskoding/portfolio)
 
 
 ## Top Languages
