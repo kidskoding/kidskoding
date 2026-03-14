@@ -3,6 +3,8 @@
 Hello, my name is Anirudh Konidala and
 I am a student studying Computer Science at the University of Illinois Urbana-Champaign!
 
+Learn more about me here - [![Anirudh Konidala - Portfolio](https://anirudh-konidala.vercel.app/)]
+
 ## About
 
 I enjoy AI, data, and vibe coding
