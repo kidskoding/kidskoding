@@ -13,7 +13,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/open-agents-template](https://gh-card.dev/repos/kidskoding/open-agents-template.svg)](https://github.com/kidskoding/open-agents-template)
+[![kidskoding/personal-finance-agent](https://gh-card.dev/repos/kidskoding/personal-finance-agent.svg)](https://github.com/kidskoding/personal-finance-agent)
 
 
 ## Top Languages
