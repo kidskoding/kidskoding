@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/hey-claude](https://gh-card.dev/repos/kidskoding/hey-claude.svg)](https://github.com/kidskoding/hey-claude)
+[![kidskoding/personal-finance-agent](https://gh-card.dev/repos/kidskoding/personal-finance-agent.svg)](https://github.com/kidskoding/personal-finance-agent)
 
 
 ## Top Languages
