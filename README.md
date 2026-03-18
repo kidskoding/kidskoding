@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/portfolio](https://gh-card.dev/repos/kidskoding/portfolio.svg)](https://github.com/kidskoding/portfolio)
+[![kidskoding/f1-strategist.ai](https://gh-card.dev/repos/kidskoding/f1-strategist.ai.svg)](https://github.com/kidskoding/f1-strategist.ai)
 
 
 ## Top Languages
