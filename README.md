@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/f1-strategist.ai](https://gh-card.dev/repos/kidskoding/f1-strategist.ai.svg)](https://github.com/kidskoding/f1-strategist.ai)
+[![kidskoding/leetcode](https://gh-card.dev/repos/kidskoding/leetcode.svg)](https://github.com/kidskoding/leetcode)
 
 
 ## Top Languages
