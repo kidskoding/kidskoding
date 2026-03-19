@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/portfolio](https://gh-card.dev/repos/kidskoding/portfolio.svg)](https://github.com/kidskoding/portfolio)
+[![kidskoding/leetcode](https://gh-card.dev/repos/kidskoding/leetcode.svg)](https://github.com/kidskoding/leetcode)
 
 
 ## Top Languages
