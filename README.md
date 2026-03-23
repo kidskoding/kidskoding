@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/portfolio](https://gh-card.dev/repos/kidskoding/portfolio.svg)](https://github.com/kidskoding/portfolio)
+[![kidskoding/ev-battery-agent](https://gh-card.dev/repos/kidskoding/ev-battery-agent.svg)](https://github.com/kidskoding/ev-battery-agent)
 
 
 ## Top Languages
