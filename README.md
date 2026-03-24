@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/soul-sync](https://gh-card.dev/repos/kidskoding/soul-sync.svg)](https://github.com/kidskoding/soul-sync)
+[![kidskoding/dotfiles](https://gh-card.dev/repos/kidskoding/dotfiles.svg)](https://github.com/kidskoding/dotfiles)
 
 
 ## Top Languages
