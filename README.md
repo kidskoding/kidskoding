@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/fall-agentic-ai-healthcare-search](https://gh-card.dev/repos/kidskoding/fall-agentic-ai-healthcare-search.svg)](https://github.com/kidskoding/fall-agentic-ai-healthcare-search)
+[![kidskoding/soul-sync](https://gh-card.dev/repos/kidskoding/soul-sync.svg)](https://github.com/kidskoding/soul-sync)
 
 
 ## Top Languages
