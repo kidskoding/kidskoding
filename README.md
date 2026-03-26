@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/personal-finance-agent-workshop](https://gh-card.dev/repos/kidskoding/personal-finance-agent-workshop.svg)](https://github.com/kidskoding/personal-finance-agent-workshop)
+[![kidskoding/personal-finance-agent](https://gh-card.dev/repos/kidskoding/personal-finance-agent.svg)](https://github.com/kidskoding/personal-finance-agent)
 
 
 ## Top Languages
