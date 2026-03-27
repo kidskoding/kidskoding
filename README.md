@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/appointment-scheduler-cc-demo](https://gh-card.dev/repos/kidskoding/appointment-scheduler-cc-demo.svg)](https://github.com/kidskoding/appointment-scheduler-cc-demo)
+[![kidskoding/RustTraining](https://gh-card.dev/repos/kidskoding/RustTraining.svg)](https://github.com/kidskoding/RustTraining)
 
 
 ## Top Languages
