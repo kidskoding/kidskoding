@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/how-cooked-is-your-bracket](https://gh-card.dev/repos/kidskoding/how-cooked-is-your-bracket.svg)](https://github.com/kidskoding/how-cooked-is-your-bracket)
+[![kidskoding/appointment-scheduler-cc-demo](https://gh-card.dev/repos/kidskoding/appointment-scheduler-cc-demo.svg)](https://github.com/kidskoding/appointment-scheduler-cc-demo)
 
 
 ## Top Languages
