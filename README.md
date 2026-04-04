@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/credit-intelligence-demo](https://gh-card.dev/repos/kidskoding/credit-intelligence-demo.svg)](https://github.com/kidskoding/credit-intelligence-demo)
+[![kidskoding/call-center-agentops](https://gh-card.dev/repos/kidskoding/call-center-agentops.svg)](https://github.com/kidskoding/call-center-agentops)
 
 
 ## Top Languages
