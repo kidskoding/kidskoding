@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/call-center-agentops](https://gh-card.dev/repos/kidskoding/call-center-agentops.svg)](https://github.com/kidskoding/call-center-agentops)
+[![kidskoding/uiuc-datathon-2026](https://gh-card.dev/repos/kidskoding/uiuc-datathon-2026.svg)](https://github.com/kidskoding/uiuc-datathon-2026)
 
 
 ## Top Languages
