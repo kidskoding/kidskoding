@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/uiuc-datathon-2026](https://gh-card.dev/repos/kidskoding/uiuc-datathon-2026.svg)](https://github.com/kidskoding/uiuc-datathon-2026)
+[![kidskoding/Resrv](https://gh-card.dev/repos/kidskoding/Resrv.svg)](https://github.com/kidskoding/Resrv)
 
 
 ## Top Languages
