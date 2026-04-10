@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/Resrv](https://gh-card.dev/repos/kidskoding/Resrv.svg)](https://github.com/kidskoding/Resrv)
+[![kidskoding/explain-like-im-five](https://gh-card.dev/repos/kidskoding/explain-like-im-five.svg)](https://github.com/kidskoding/explain-like-im-five)
 
 
 ## Top Languages
