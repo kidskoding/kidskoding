@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/cumtd-go](https://gh-card.dev/repos/kidskoding/cumtd-go.svg)](https://github.com/kidskoding/cumtd-go)
+[![kidskoding/cumtd-tui](https://gh-card.dev/repos/kidskoding/cumtd-tui.svg)](https://github.com/kidskoding/cumtd-tui)
 
 
 ## Top Languages
