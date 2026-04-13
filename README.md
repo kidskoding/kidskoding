@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/cumtd-eta-drift](https://gh-card.dev/repos/kidskoding/cumtd-eta-drift.svg)](https://github.com/kidskoding/cumtd-eta-drift)
+[![kidskoding/fall-agentic-ai-healthcare-search](https://gh-card.dev/repos/kidskoding/fall-agentic-ai-healthcare-search.svg)](https://github.com/kidskoding/fall-agentic-ai-healthcare-search)
 
 
 ## Top Languages
