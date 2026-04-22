@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/cumtd-eta-drift](https://gh-card.dev/repos/kidskoding/cumtd-eta-drift.svg)](https://github.com/kidskoding/cumtd-eta-drift)
+[![kidskoding/portfolio](https://gh-card.dev/repos/kidskoding/portfolio.svg)](https://github.com/kidskoding/portfolio)
 
 
 ## Top Languages
