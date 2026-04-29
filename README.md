@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/reinforcement-learning](https://gh-card.dev/repos/kidskoding/reinforcement-learning.svg)](https://github.com/kidskoding/reinforcement-learning)
+[![kidskoding/gen-z-claude-bro](https://gh-card.dev/repos/kidskoding/gen-z-claude-bro.svg)](https://github.com/kidskoding/gen-z-claude-bro)
 
 
 ## Top Languages
