@@ -15,8 +15,6 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/gen-z-claude-bro](https://gh-card.dev/repos/kidskoding/gen-z-claude-bro.svg)](https://github.com/kidskoding/gen-z-claude-bro)
-
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kidskoding&layout=compact)
