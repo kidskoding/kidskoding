@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/nes-emulator](https://gh-card.dev/repos/kidskoding/nes-emulator.svg)](https://github.com/kidskoding/nes-emulator)
+[![kidskoding/pm-ai-agent](https://gh-card.dev/repos/kidskoding/pm-ai-agent.svg)](https://github.com/kidskoding/pm-ai-agent)
 
 
 ## Top Languages
