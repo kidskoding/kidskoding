@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/faang-dsa](https://gh-card.dev/repos/kidskoding/faang-dsa.svg)](https://github.com/kidskoding/faang-dsa)
+[![kidskoding/neetcode-submissions](https://gh-card.dev/repos/kidskoding/neetcode-submissions.svg)](https://github.com/kidskoding/neetcode-submissions)
 
 
 ## Top Languages
