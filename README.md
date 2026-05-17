@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/neetcode-submissions](https://gh-card.dev/repos/kidskoding/neetcode-submissions.svg)](https://github.com/kidskoding/neetcode-submissions)
+[![kidskoding/PrairieLearn](https://gh-card.dev/repos/kidskoding/PrairieLearn.svg)](https://github.com/kidskoding/PrairieLearn)
 
 
 ## Top Languages
