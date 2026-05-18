@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/PrairieLearn](https://gh-card.dev/repos/kidskoding/PrairieLearn.svg)](https://github.com/kidskoding/PrairieLearn)
+[![kidskoding/gen-z-claude-bro](https://gh-card.dev/repos/kidskoding/gen-z-claude-bro.svg)](https://github.com/kidskoding/gen-z-claude-bro)
 
 
 ## Top Languages
