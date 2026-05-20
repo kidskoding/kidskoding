@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/ci-489-final](https://gh-card.dev/repos/kidskoding/ci-489-final.svg)](https://github.com/kidskoding/ci-489-final)
+[![kidskoding/aoc-2025](https://gh-card.dev/repos/kidskoding/aoc-2025.svg)](https://github.com/kidskoding/aoc-2025)
 
 
 ## Top Languages
