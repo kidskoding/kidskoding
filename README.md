@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/databricks-fellowship-cpg](https://gh-card.dev/repos/kidskoding/databricks-fellowship-cpg.svg)](https://github.com/kidskoding/databricks-fellowship-cpg)
+[![kidskoding/fall-agentic-ai-healthcare-search](https://gh-card.dev/repos/kidskoding/fall-agentic-ai-healthcare-search.svg)](https://github.com/kidskoding/fall-agentic-ai-healthcare-search)
 
 
 ## Top Languages
