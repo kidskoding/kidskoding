@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/fanfest-dallas-arlington-app](https://gh-card.dev/repos/kidskoding/fanfest-dallas-arlington-app.svg)](https://github.com/kidskoding/fanfest-dallas-arlington-app)
+[![kidskoding/portfolio](https://gh-card.dev/repos/kidskoding/portfolio.svg)](https://github.com/kidskoding/portfolio)
 
 
 ## Top Languages
