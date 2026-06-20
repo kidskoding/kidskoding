@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/playwright-python](https://gh-card.dev/repos/kidskoding/playwright-python.svg)](https://github.com/kidskoding/playwright-python)
+[![kidskoding/lore](https://gh-card.dev/repos/kidskoding/lore.svg)](https://github.com/kidskoding/lore)
 
 
 ## Top Languages
