@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/codepath-tip102-summer-26](https://gh-card.dev/repos/kidskoding/codepath-tip102-summer-26.svg)](https://github.com/kidskoding/codepath-tip102-summer-26)
+[![kidskoding/fun-with-git](https://gh-card.dev/repos/kidskoding/fun-with-git.svg)](https://github.com/kidskoding/fun-with-git)
 
 
 ## Top Languages
