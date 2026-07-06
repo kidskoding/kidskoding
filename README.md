@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/blockchain-network](https://gh-card.dev/repos/kidskoding/blockchain-network.svg)](https://github.com/kidskoding/blockchain-network)
+[![kidskoding/anikonistack](https://gh-card.dev/repos/kidskoding/anikonistack.svg)](https://github.com/kidskoding/anikonistack)
 
 
 ## Top Languages
