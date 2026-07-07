@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/anikonistack](https://gh-card.dev/repos/kidskoding/anikonistack.svg)](https://github.com/kidskoding/anikonistack)
+[![kidskoding/sparkyard](https://gh-card.dev/repos/kidskoding/sparkyard.svg)](https://github.com/kidskoding/sparkyard)
 
 
 ## Top Languages
