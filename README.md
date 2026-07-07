@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/sparkyard](https://gh-card.dev/repos/kidskoding/sparkyard.svg)](https://github.com/kidskoding/sparkyard)
+[![kidskoding/pipemedic](https://gh-card.dev/repos/kidskoding/pipemedic.svg)](https://github.com/kidskoding/pipemedic)
 
 
 ## Top Languages
