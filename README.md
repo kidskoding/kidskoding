@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/pipemedic](https://gh-card.dev/repos/kidskoding/pipemedic.svg)](https://github.com/kidskoding/pipemedic)
+[![kidskoding/dotfiles](https://gh-card.dev/repos/kidskoding/dotfiles.svg)](https://github.com/kidskoding/dotfiles)
 
 
 ## Top Languages
