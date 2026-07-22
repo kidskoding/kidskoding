@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/linalgrs](https://gh-card.dev/repos/kidskoding/linalgrs.svg)](https://github.com/kidskoding/linalgrs)
+[![kidskoding/aoc-cli](https://gh-card.dev/repos/kidskoding/aoc-cli.svg)](https://github.com/kidskoding/aoc-cli)
 
 
 ## Top Languages
