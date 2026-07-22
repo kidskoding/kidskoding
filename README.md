@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/aoc-cli](https://gh-card.dev/repos/kidskoding/aoc-cli.svg)](https://github.com/kidskoding/aoc-cli)
+[![kidskoding/nixos-config](https://gh-card.dev/repos/kidskoding/nixos-config.svg)](https://github.com/kidskoding/nixos-config)
 
 
 ## Top Languages
