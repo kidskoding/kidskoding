@@ -1,13 +1,8 @@
 # kidskoding
 
-Hello, my name is Anirudh Konidala and
-I am a student studying Computer Science at the University of Illinois Urbana-Champaign!
-
 > i enjoy AI, data, and vibe coding
-> 
-<!-- <p align="center">
-  <img src="./anirudh.png" alt="Anirudh Konidala" width="33%">
-</p> -->
+
+hello! more formally speaking, my name is Anirudh Konidala and I am currently a student studying Computer Science at the University of Illinois Urbana-Champaign! aside from being a student and an aspiring software developer, i enjoy playing lots of billards! games with numbers fascinate me a lot!
 
 ## Currently Working On
 
