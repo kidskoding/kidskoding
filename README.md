@@ -15,7 +15,7 @@ I enjoy AI, data, and vibe coding
 
 ## Currently Working On
 
-[![kidskoding/nixos-config](https://gh-card.dev/repos/kidskoding/nixos-config.svg)](https://github.com/kidskoding/nixos-config)
+[![kidskoding/rustlings](https://gh-card.dev/repos/kidskoding/rustlings.svg)](https://github.com/kidskoding/rustlings)
 
 
 ## Top Languages
