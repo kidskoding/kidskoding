@@ -4,16 +4,12 @@
 
 hello! formally speaking, my name is **anirudh konidala** and i am currently a student studying Computer Science at the **university of illinois urbana-champaign**! 
 
-----
-
 a lot of my technical experience lies within the field of data processing, streaming, and engineering. more specifically, this
 includes the use of data warehousing, rdbms, distributed streaming tools, modern data pipeline architecture, and cloud data
 processing software via **azure databricks**, **postgres**, **cassandra**, **spark**, **kafka**, **dbt**, **aws**,
 **snowflake**, and **airflow**
 
 aside from being a student and an aspiring software developer, i enjoy playing lots of **billards**! **games with numbers fascinate me a lot!**
-
-----
 
 p.s. i loveeee **rusttt** 🦀🦀🦀
 
