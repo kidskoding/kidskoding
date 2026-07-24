@@ -30,6 +30,6 @@ Learn more about me here - [Anirudh Konidala - Portfolio](https://anirudh-konida
 
 **Daily Drivers**
 
-![Daily Drivers](https://skillicons.dev/icons?i=rust,go,py,git,docker,postgres,mongodb,neovim,linux)
+![Daily Drivers](https://skillicons.dev/icons?i=rust,go,py,git,docker,postgres,mongodb,linux,aws)
 
 **Skills**: [view here!](https://github.com/kidskoding/kidskoding/blob/master/SKILLS.md)  
