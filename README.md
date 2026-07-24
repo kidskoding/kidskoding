@@ -3,12 +3,8 @@
 Hello, my name is Anirudh Konidala and
 I am a student studying Computer Science at the University of Illinois Urbana-Champaign!
 
-Learn more about me here - [Anirudh Konidala - Portfolio](https://anirudh-konidala.vercel.app/)
-
-## About
-
-I enjoy AI, data, and vibe coding
-
+> i enjoy AI, data, and vibe coding
+> 
 <!-- <p align="center">
   <img src="./anirudh.png" alt="Anirudh Konidala" width="33%">
 </p> -->
@@ -26,8 +22,14 @@ I enjoy AI, data, and vibe coding
   <img src="https://leetcard.jacoblin.cool/anikoni?theme=dark&ext=heatmap" alt="Leetcode Progress" />
 </p> -->
 
-## Daily Drivers
+Learn more about me here - [Anirudh Konidala - Portfolio](https://anirudh-konidala.vercel.app/)
+
+<img width="256" height="256" alt="ferris" src="https://github.com/user-attachments/assets/ff7fb5a0-a2a8-443f-a388-3289ed627a34" />
+
+----
+
+**Daily Drivers**
 
 ![Daily Drivers](https://skillicons.dev/icons?i=rust,go,py,git,docker,postgres,mongodb,neovim,linux)
 
-### [Skills](https://github.com/kidskoding/kidskoding/blob/master/SKILLS.md)  
+**Skills**: [view here!](https://github.com/kidskoding/kidskoding/blob/master/SKILLS.md)  
