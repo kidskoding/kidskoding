@@ -9,7 +9,7 @@ includes the use of data warehousing, rdbms, distributed streaming tools, modern
 processing software via **azure databricks**, **postgres**, **cassandra**, **spark**, **kafka**, **dbt**, **aws**,
 **snowflake**, and **airflow**
 
-aside from being a student and an aspiring software developer, i enjoy playing lots of billards! games with numbers fascinate me a lot!
+aside from being a student and an aspiring software developer, i enjoy playing lots of **billards**! **games with numbers fascinate me a lot!**
 
 p.s. i loveeee **rusttt** 🦀🦀🦀
 
