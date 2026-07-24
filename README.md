@@ -11,8 +11,6 @@ includes the use of data warehousing, rdbms, distributed streaming tools, modern
 processing software via **azure databricks**, **postgres**, **cassandra**, **spark**, **kafka**, **dbt**, **aws**,
 **snowflake**, and **airflow**
 
-but i also share this knowledge with the world around me! during my **student fellowship** with **databricks**, i enjoy empowering other students by showcasing how databricks simplifies data engineering, analytics, and AI workflows!
-
 aside from being a student and an aspiring software developer, i enjoy playing lots of **billards**! **games with numbers fascinate me a lot!**
 
 ----
