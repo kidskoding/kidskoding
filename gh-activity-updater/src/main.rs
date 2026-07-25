@@ -5,6 +5,18 @@ use octocrab::Octocrab;
 use octocrab::Page;
 use std::fs;
 
+// ponytail: heading text keeps getting reworded by hand, so match on the phrase, not the exact line
+fn find_section_end(content: &str) -> Option<usize> {
+    let mut offset = 0;
+    for line in content.lines() {
+        if line.starts_with("##") && line.to_lowercase().contains("currently working on") {
+            return Some(offset + line.len());
+        }
+        offset += line.len() + 1;
+    }
+    None
+}
+
 #[tokio::main]
 async fn main() -> anyhow::Result<()> {
     dotenvy::dotenv().ok();
@@ -37,11 +49,8 @@ async fn main() -> anyhow::Result<()> {
     let readme_path = "../README.md";
     let content = fs::read_to_string(readme_path)?;
 
-    let section_header = "## Currently Working On";
-    let start = content
-        .find(section_header)
-        .expect("could not find '## Currently Working On' section in README.md!");
-    let after_header = start + section_header.len();
+    let after_header = find_section_end(&content)
+        .expect("could not find a '## ... currently working on ...' section in README.md!");
 
     let rest = &content[after_header..];
     let next_section = rest.find("\n## ").map(|i| after_header + i).unwrap_or(content.len());
@@ -55,4 +64,16 @@ async fn main() -> anyhow::Result<()> {
     fs::write(readme_path, updated_content)?;
 
     Ok(())
+}
+#[cfg(test)]
+mod tests {
+    use super::find_section_end;
+
+    #[test]
+    fn finds_reworded_heading() {
+        let md = "# t\n\n## check out what i am currently working on &#9660;\nbody\n\n## next\n";
+        let end = find_section_end(md).unwrap();
+        assert_eq!(&md[end..], "\nbody\n\n## next\n");
+        assert_eq!(find_section_end("# t\n\n## nothing here\n"), None);
+    }
 }

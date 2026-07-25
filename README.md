@@ -18,7 +18,9 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 ----
 
 ## check out what i am currently working on &#9660;
-[![kidskoding/rustlings](https://gh-card.dev/repos/kidskoding/rustlings.svg)](https://github.com/kidskoding/rustlings)
+
+[![kidskoding/nixos-config](https://gh-card.dev/repos/kidskoding/nixos-config.svg)](https://github.com/kidskoding/nixos-config)
+
 
 ## my favorite languages &#9660;
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kidskoding&layout=compact)
