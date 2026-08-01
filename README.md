@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/graphs](https://gh-card.dev/repos/kidskoding/graphs.svg)](https://github.com/kidskoding/graphs)
+[![kidskoding/witness](https://gh-card.dev/repos/kidskoding/witness.svg)](https://github.com/kidskoding/witness)
 
 
 ## my favorite languages &#9660;
