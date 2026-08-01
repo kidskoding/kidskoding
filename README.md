@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/witness](https://gh-card.dev/repos/kidskoding/witness.svg)](https://github.com/kidskoding/witness)
+[![kidskoding/nixos-config](https://gh-card.dev/repos/kidskoding/nixos-config.svg)](https://github.com/kidskoding/nixos-config)
 
 
 ## my favorite languages &#9660;
