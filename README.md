@@ -2,7 +2,7 @@
 
 > i enjoy AI, data, and vibe coding
 
-hello! formally speaking, my name is **anirudh konidala** and i am currently a student studying Computer Science at the **university of illinois urbana-champaign**! 
+hello! formally speaking, my name is **anirudh konidala** and i am currently a student studying **computer science** at the **university of illinois urbana-champaign**! 
 
 a lot of my technical experience lies within the field of data processing, streaming, and engineering. more specifically, this
 includes the use of data warehousing, rdbms, distributed streaming tools, modern data pipeline architecture, and cloud data
