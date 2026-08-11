@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/codepath-tip102-summer-26](https://gh-card.dev/repos/kidskoding/codepath-tip102-summer-26.svg)](https://github.com/kidskoding/codepath-tip102-summer-26)
+[![kidskoding/nixos-config](https://gh-card.dev/repos/kidskoding/nixos-config.svg)](https://github.com/kidskoding/nixos-config)
 
 
 ## my favorite languages &#9660;
