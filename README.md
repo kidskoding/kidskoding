@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/aoc-2025](https://gh-card.dev/repos/kidskoding/aoc-2025.svg)](https://github.com/kidskoding/aoc-2025)
+[![kidskoding/Resrv](https://gh-card.dev/repos/kidskoding/Resrv.svg)](https://github.com/kidskoding/Resrv)
 
 
 ## my favorite languages &#9660;
