@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/blockchain-network](https://gh-card.dev/repos/kidskoding/blockchain-network.svg)](https://github.com/kidskoding/blockchain-network)
+[![kidskoding/ledger](https://gh-card.dev/repos/kidskoding/ledger.svg)](https://github.com/kidskoding/ledger)
 
 
 ## my favorite languages &#9660;
