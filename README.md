@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/ledger](https://gh-card.dev/repos/kidskoding/ledger.svg)](https://github.com/kidskoding/ledger)
+[![kidskoding/nixos-config](https://gh-card.dev/repos/kidskoding/nixos-config.svg)](https://github.com/kidskoding/nixos-config)
 
 
 ## my favorite languages &#9660;
