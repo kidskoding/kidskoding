@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/tree-problem-set](https://gh-card.dev/repos/kidskoding/tree-problem-set.svg)](https://github.com/kidskoding/tree-problem-set)
+[![kidskoding/faang-dsa](https://gh-card.dev/repos/kidskoding/faang-dsa.svg)](https://github.com/kidskoding/faang-dsa)
 
 
 ## my favorite languages &#9660;
