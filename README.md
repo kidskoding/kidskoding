@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/project-euler](https://gh-card.dev/repos/kidskoding/project-euler.svg)](https://github.com/kidskoding/project-euler)
+[![kidskoding/gfg](https://gh-card.dev/repos/kidskoding/gfg.svg)](https://github.com/kidskoding/gfg)
 
 
 ## my favorite languages &#9660;
