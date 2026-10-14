@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/portfolio](https://gh-card.dev/repos/kidskoding/portfolio.svg)](https://github.com/kidskoding/portfolio)
+[![kidskoding/kidskoding.nvim](https://gh-card.dev/repos/kidskoding/kidskoding.nvim.svg)](https://github.com/kidskoding/kidskoding.nvim)
 
 
 ## my favorite languages &#9660;
