@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/cs225](https://gh-card.dev/repos/kidskoding/cs225.svg)](https://github.com/kidskoding/cs225)
+[![kidskoding/anikonistack](https://gh-card.dev/repos/kidskoding/anikonistack.svg)](https://github.com/kidskoding/anikonistack)
 
 
 ## my favorite languages &#9660;
