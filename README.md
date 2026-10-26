@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/nixos-config](https://gh-card.dev/repos/kidskoding/nixos-config.svg)](https://github.com/kidskoding/nixos-config)
+[![kidskoding/databricks-wiki](https://gh-card.dev/repos/kidskoding/databricks-wiki.svg)](https://github.com/kidskoding/databricks-wiki)
 
 
 ## my favorite languages &#9660;
