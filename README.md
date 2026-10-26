@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/databricks-wiki](https://gh-card.dev/repos/kidskoding/databricks-wiki.svg)](https://github.com/kidskoding/databricks-wiki)
+[![kidskoding/portfolio](https://gh-card.dev/repos/kidskoding/portfolio.svg)](https://github.com/kidskoding/portfolio)
 
 
 ## my favorite languages &#9660;
