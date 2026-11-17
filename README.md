@@ -19,7 +19,7 @@ p.s. i loveeee **rusttt** 🦀🦀🦀
 
 ## check out what i am currently working on &#9660;
 
-[![kidskoding/myleet](https://gh-card.dev/repos/kidskoding/myleet.svg)](https://github.com/kidskoding/myleet)
+[![kidskoding/noctalia](https://gh-card.dev/repos/kidskoding/noctalia.svg)](https://github.com/kidskoding/noctalia)
 
 
 ## my favorite languages &#9660;
